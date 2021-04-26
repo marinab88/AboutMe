@@ -109,3 +109,17 @@ footer {
   text-align: center;
   font-weight: bold;
 }
+
+
+.addition {
+  background-color: #b16e2b;
+  color: #1d1919;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'Vast Shadow';
+  font-size: 27px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
